@@ -20,10 +20,6 @@ Smooth animations and modern UI/UX
 
 HTML, CSS, JavaScript
 
-React.js (or any framework used)
-
-Tailwind CSS (or any styling framework used)
-
 GitHub Pages / Vercel / Netlify (for deployment)
 
 📂 Installation
